@@ -1,43 +1,67 @@
 const movies = [
   {
-    name: 'The Mummy',
-    watchCount: 1638096
+    name: 'Iron Man',
+    watchCount: 585200
   },
   {
-    name: 'Baby Driver',
-    watchCount: 1476100
+    name: 'The Incredible Hulk',
+    watchCount: 263400
   },
   {
-    name: 'Captain Underpants: The First Epic Movie',
-    watchCount: 1318813
+    name: 'Iron Man 2',
+    watchCount: 623900
   },
   {
-    name: 'It Comes At Night',
-    watchCount: 999547
+    name: 'Thor',
+    watchCount: 449300
   },
   {
-    name: 'Strong Island',
-    watchCount: 998833
+    name: 'Captain America: The First Avenger',
+    watchCount: 370600
   },
   {
-    name: 'All Eyez On Me',
-    watchCount: 953628
+    name: 'The Avengers',
+    watchCount: 1519000
   },
   {
-    name: 'Rough Night',
-    watchCount: 940397
+    name: 'Iron Man 3',
+    watchCount: 1215000
   },
   {
-    name: 'Megan Leavey',
-    watchCount: 938431
+    name: 'Thor: The Dark World',
+    watchCount: 644600
   },
   {
-    name: 'Anti Matter',
-    watchCount: 930422
+    name: 'Captain America: The Winter Soldier',
+    watchCount: 714300
   },
   {
-    name: 'The Wedding Plan',
-    watchCount: 920538
+    name: 'Guardians of the Galaxy',
+    watchCount: 773300
+  },
+  {
+    name: 'The Avengers: Age of Ultron',
+    watchCount: 1405000
+  },
+  {
+    name: 'Ant-Man',
+    watchCount: 519000
+  },
+  {
+    name: 'Captain America: Civil War',
+    watchCount: 1153000
+  },
+  {
+    name: 'Doctor Strange',
+    watchCount: 677600
+  },
+  {
+    name: 'Guardians of the Galaxy Vol. 2',
+    watchCount: 863400
+  },
+  {
+    name: 'Spider-Man: Homecoming',
+    watchCount: 861600
   }
 ];
 
