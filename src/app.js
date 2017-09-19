@@ -4,7 +4,7 @@ import movies from '../data/data';
 // this array will be used by getRanking and getTopVidoes functions
 
 const sortedMovieRankings = movies
-  .slice() // use .slice() without parameters to create copy of of movies array
+  .slice() // use .slice() without parameters to create copy of movies array
   .sort((next, prev) => prev.watchCount - next.watchCount);
 
 function videoViewed(strVideoName) {
